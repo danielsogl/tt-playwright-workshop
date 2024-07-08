@@ -2,7 +2,9 @@
   "name": "tt-playwright-workshop",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "playwright": "npx playwright test"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
